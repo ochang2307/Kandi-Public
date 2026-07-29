@@ -135,8 +135,3 @@ avoids an unnecessary LED-off sampling window.
 Magnetometer calibration → mesh protocol on hardware → two-device
 "find your friend" field demo → miniaturized integrated unit → wrist form
 factor → scaled field testing at progressively larger events.
-
-The design doc covers the full plan, the power budget, the LED interaction
-model, and an honest register of open risks — the largest being that
-real-world LoRa range in a dense crowd can only be settled by field testing,
-not analysis.
